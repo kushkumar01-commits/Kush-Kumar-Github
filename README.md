@@ -14,7 +14,7 @@ Senior DevSecOps Engineer | Azure | Terraform | Kubernetes (AKS) | Azure DevOps 
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/kush-kumar-b751b8318">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
